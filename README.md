@@ -7,5 +7,3 @@
 ![Git](https://shields.io)
 
 </div>
-
-<br>
