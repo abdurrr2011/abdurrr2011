@@ -1,10 +1,5 @@
 <div align="center">
 
-# Hi there! I'm [Your Name] 👋
-### 🚀 Aspiring Software Engineer & AI Enthusiast
-
-Passionate about writing clean, efficient code and exploring the endless possibilities of intelligent systems.
-
 ---
 
 ### 🛠️ Tech Stack
