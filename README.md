@@ -36,8 +36,8 @@ My next major milestone is conquering **AI & ML (Artificial Intelligence & Machi
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" height="180px"/>
-  <img src="https://vercel.app" alt="Top Languages" height="180px"/>
+  <img src="(https://github.com/abdurrr2011)" alt="GitHub Stats" height="180px"/>
+  <img src="(https://github.com/abdurrr2011)" alt="Top Languages" height="180px"/>
 </div>
 
 ---
