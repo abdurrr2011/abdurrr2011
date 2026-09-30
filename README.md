@@ -18,7 +18,7 @@ Passionate about writing clean, efficient code and exploring the endless possibi
 <br/>
 
 ## 🎯 Current Focus
-Right now, I am deeply focused on mastering **Python**. I use it to solve algorithmic challenges, automate tasks, and build a rock-solid foundation for advanced engineering.
+Right now, I am profoundly focused on mastering **Python**. I use it to solve algorithmic challenges, automate tasks, and build a rock-solid foundation for advanced engineering.
 
 * **Clean Code:** Writing readable, maintainable, and optimized Python scripts.
 * **CS Fundamentals:** Deep diving into Data Structures and Algorithms (DSA).
