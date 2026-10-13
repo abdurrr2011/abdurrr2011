@@ -28,21 +28,3 @@ My next major milestone is conquering **AI & ML (Artificial Intelligence & Machi
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="(https://github.com/abdurrr2011)" alt="GitHub Stats" height="180px"/>
-  <img src="(https://github.com/abdurrr2011)" alt="Top Languages" height="180px"/>
-</div>
-
----
-
-<div align="center">
-
-### 📬 Connect with me:
-
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Telegram](https://shields.io)](https://t.me.itsjustadream91)
-[![Email](https://shields.io)](mailto:your.email@gmail.com)
-
-</div>
